@@ -34,7 +34,6 @@ For the "AFTER" metrics, Network Security Groups were hardened by blocking ALL t
 
 ## Attack Maps Before Hardening / Security Controls
 ![LINUX B4](https://github.com/fredjefferson/Azure-Cloud-SOC/assets/165739288/461a7d06-289c-462a-ad7e-bbdab228ea32)
-![MSSQB4](https://github.com/fredjefferson/Azure-Cloud-SOC/assets/165739288/406bbd2c-56bc-460e-8634-157b815aaf30)
 ![WINDOWS B4](https://github.com/fredjefferson/Azure-Cloud-SOC/assets/165739288/c73af32a-477c-4dac-8d6a-5f5da0c750a4)
 
 
